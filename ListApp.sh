@@ -5,7 +5,7 @@
 #------------------------------------------#
 #                                          #
 #  Backup list of applications installed   #
-#   	        on Debian                  #
+#   on Debian (and restore, of course!)    #
 #                                          #
 #              Yvan Godard                 #
 #          godardyvan@gmail.com            #
@@ -14,7 +14,7 @@
 #             Under Licence                #
 #     Creative Commons 4.0 BY NC SA        #
 #                                          #
-#          http://goo.gl/lriKvn            #
+#          http://goo.gl/A8vPSE            #
 #                                          #
 #------------------------------------------#
 
