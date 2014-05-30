@@ -5,16 +5,17 @@ Description
 ------------
 This tool is designed to backup (and restore) a list of applications installed on Debian.
 
-For that, uses theses commands (thanks to http://goo.gl/eLbnwI).
+For that, it uses these commands (thanks to http://goo.gl/eLbnwI).
 
-To create a list of applications installed:
+- To create a list of applications installed:
 
-	dpkg --get-selections > program-list
+	`dpkg --get-selections > program-list`
 
-To restore:
+- To restore:
 
-	sudo dpkg --set-selections > program-list
-	sudo apt-get dselect-upgrade
+	`sudo dpkg --set-selections > program-list`
+	
+	`sudo apt-get dselect-upgrade`
 
 
 
